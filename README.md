@@ -145,10 +145,9 @@ void IRPAIR()
 ```
 
 ## OUTPUT
+<img width="980" height="662" alt="image" src="https://github.com/user-attachments/assets/8b7925c2-9804-43a2-ab79-c50b9be6ccec" />
 
 <img width="516" height="735" alt="image" src="https://github.com/user-attachments/assets/e7bc3886-8489-4c70-9c4e-b728dbba1700" />
-<img width="507" height="685" alt="image" src="https://github.com/user-attachments/assets/bb9fb127-44e4-4f78-b33b-17be1a66b58e" />
-
 
 
 ## Result
